@@ -1,0 +1,24 @@
+{
+  "name": "comic-optimizer",
+  "version": "0.0.0",
+  "description": "optimizes a comics file (cbr / cbz)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreaganluna/comic-optimizer.git"
+  },
+  "keywords": [
+    "comic",
+    "cbr",
+    "cbz",
+    "optimize"
+  ],
+  "author": "dreagan <draeganlunacrivassan@gmail.com>",
+  "license": "GLP",
+  "bugs": {
+    "url": "https://github.com/dreaganluna/comic-optimizer/issues"
+  }
+}
